@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 📐 Solving Olympiad-level math problems most evenings (Simon Marais, Putnam, etc.)  
 🔧 Android nerd since 8th grade, compiling AOSP-based ROMs, fixing SEPolicy breakages, and patching kernels at 4 AM  
   
-Oh, and also... I'm pursuing a bachelor's in **AI & ML at Osmania University (UCEOU)**. I'm even the Class Rep.
+Oh, and also, I'm pursuing a bachelor's in **AI & ML at Osmania University (UCEOU)**.
 
 ---
 
@@ -40,13 +40,13 @@ Oh, and also... I'm pursuing a bachelor's in **AI & ML at Osmania University (UC
 
 ### 📚 Current Pursuits
 - 💡 Contributing to open-source MERN projects @ **GirlScript Summer of Code 2025**  
-- 💻 Tech Lead @ **GeeksForGeeks UCEOU Chapter** — built our campus site  
+- 💻 Tech Lead @ **GeeksForGeeks UCEOU Chapter**, built our campus site  
 - 🧠 Deep diving into **Quant Research**, HFT systems, and advanced math  
-- 🔥 Grinding weekends on Riveaura — both code and coffee
+- 🔥 Grinding weekends on Riveaura, building apps and games!
 
 ---
 
-### 🌐 Find Me Here
+### 🌐 Send a Pigeon or Just a DM
 - 🔗 [Linktree](https://linktr.ee/KudumulaRajVardhanReddy)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajvardhanreddykudumula/)  
 - 🐙 [GitHub](https://github.com/KudumulaRajVardhanReddy)  
