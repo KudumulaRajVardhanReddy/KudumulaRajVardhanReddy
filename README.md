@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 ---
 
-🚀 Currently building **Riveaura** — a startup crafting smarter apps and joyful games using **MERN Stack** & **Unity 3D**  
+🚀 Currently building **Riveaura**, a startup crafting smarter apps and joyful games using **MERN Stack** & **Unity 3D**  
 📊 Researching **Quant Finance**, stochastic models, and market microstructure  
 📐 Solving Olympiad-level math problems most evenings (Simon Marais, Putnam, etc.)  
-🔧 Android nerd since 8th grade — compiling AOSP-based ROMs, fixing SEPolicy breakages, and patching kernels at 4 AM  
+🔧 Android nerd since 8th grade, compiling AOSP-based ROMs, fixing SEPolicy breakages, and patching kernels at 4 AM  
   
-Oh, and also... I'm pursuing a bachelor's in **AI & ML at Osmania University (UCEOU)**. I'm even the Class Rep, somehow. 😅
+Oh, and also... I'm pursuing a bachelor's in **AI & ML at Osmania University (UCEOU)**. I'm even the Class Rep.
 
 ---
 
