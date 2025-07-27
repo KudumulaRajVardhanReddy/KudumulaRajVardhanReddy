@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Undergrad Quant Researcher on weekdays**  
+**Undergrad Researcher on weekdays**  
 **Founder on weekends**  
-**Mathematician in the evenings**
+**Problemist in the evenings**
 
 ---
 
